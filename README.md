@@ -3,7 +3,8 @@
 **JonathanGP1/JonathanGP1**
 
 # 💫 About Me:
-Hola ! :D<br>Estoy iniciando en este mundo de la programaciòn y el desarrollo de Software, aprendiendo sobre tecnologias como HTML, CSS y JavaScript para desarrollo web junto con algunos Frameworks. He desarrollado varios proyectos con el microcontrolador Arduino y algunas pàginas web bàsicas, por otro lado estoy aprendiendo sobre los fundamentos y creaciòn de bases de datos con MySQL.
+
+Hola ! :D<br>Estoy iniciando en el mundo de la programaciòn y el desarrollo de Software, aprendiendo sobre tecnologias como HTML, CSS y JavaScript para desarrollo web junto con algunos Frameworks. He desarrollado varios proyectos con el microcontrolador Arduino y algunas pàginas web bàsicas, por otro lado estoy aprendiendo sobre los fundamentos y creaciòn de bases de datos con MySQL.
 
 Soy Ingeniero de Mantenimiento Industrial con experiencia en mantenimiento y operaciòn de sistemas de transporte por cable aereo. Busco relacionar las dos aereas con la creaciòn de un Software para la administraciòn de las actividades de mantenimiento y control de inventario. Soy apasionado por el saber tecnologìa y la automatizaciòn, control de procesos electromecànicos con PLC.
 

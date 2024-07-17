@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **JonathanGP1/JonathanGP1**
 
 # 💫 About Me:

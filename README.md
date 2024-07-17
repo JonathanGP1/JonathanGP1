@@ -6,7 +6,7 @@
 
 Hola ! 👋🏼 <br> <br>Estoy iniciando en el mundo de la programaciòn y el desarrollo de Software, aprendiendo sobre tecnologias como HTML, CSS y JavaScript para desarrollo web junto con el Framework de Bootstrap. He desarrollado varios proyectos con el microcontrolador Arduino y algunas pàginas web bàsicas, por otro lado estoy aprendiendo sobre los fundamentos y creaciòn de bases de datos con MySQL.
 
-Soy Ingeniero de Mantenimiento con experiencia en mantenimiento y operaciòn de sistemas de transporte por cable aereo. Busco relacionar las dos aereas con la creaciòn de un Software para la administraciòn de las actividades de mantenimiento y control de inventario. Soy apasionado por el saber tecnologìa y la automatizaciòn, control de procesos electromecànicos con PLC.  🚠🕹️💻
+Soy Ingeniero de Mantenimiento con experiencia en mantenimiento y operaciòn de sistemas de transporte por cable aèreo. Busco relacionar las dos àreas con la creaciòn de un Software para la administraciòn de las actividades de mantenimiento y control de inventario. Soy apasionado por el saber, la tecnologìa y la automatizaciòn, el control de procesos electromecànicos con PLC.  🚠🕹️💻
 
 Abierto a oportunidades de colaboraciòn para proyectos en los cuales pueda aprender y aplicar conocimientos, logrando asì crear portafolio y experiencia. 📚🤓
 
